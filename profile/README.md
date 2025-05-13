@@ -6,8 +6,6 @@
 
 ---
 
-<h3 align="center">Bienvenue dans le dépôt GitHub de Sublime !</h3>
-
 ## 🌟 About **Sublime**
 
 > **Sublime** is a store specializing in the creation and distribution of **FiveM resources**. Driven by a passionate team, our goal is to provide the community with scripts and graphic assets that are both **high-performing**, **optimized**, and **visually appealing**.
