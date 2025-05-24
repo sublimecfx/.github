@@ -1,7 +1,7 @@
 <h1 align="center">Sublime</h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1270395429883744391/1371821960312389796/banner.png?ex=68248842&is=682336c2&hm=1c78df432336722f3830ddfb1fdbfca43816bde5406727b753ff8862d3dcaab0&" alt="logo">
+  <img src="https://cdn.discordapp.com/attachments/1371568229310402560/1375895981446664202/banner.png?ex=68335a7c&is=683208fc&hm=23ea03da027ddb3d4913af06cfc9664b4d042834fa89c8dc0fec2a1b663894a7&" alt="logo">
 </div>
 
 ---
